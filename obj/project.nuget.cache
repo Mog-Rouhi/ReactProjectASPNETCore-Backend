@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "+3/b5J/OokXnYi/rx24xgq0Bp0KkKJMqu0IsgSrDj5bPGwxgPEH32v9qdR4R6Q5wSxVuy5O+uw+v2k45E9ezyA==",
+  "success": true,
+  "projectFilePath": "D:\\projects-post-bootcamp\\c#_.net\\ReactProjectASPNETCore\\reactprojectaspnetcore-backend\\reactprojectaspnetcore-backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mogha\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\mogha\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mogha\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\mogha\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\mogha\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\mogha\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
